@@ -16,7 +16,7 @@
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog)
 
-### Day 2: January 6, 2024 
+### Day 3: January 7, 2024 
 
 **Today's Progress**: I wrote the routes for my blog's API, and I wrote some dummy controller functions for when these routes get called. Next task is to fill in those controller functions.
 
