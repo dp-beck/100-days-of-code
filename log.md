@@ -24,3 +24,11 @@
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog)
 
+### Day 4: January 8, 2024 
+
+**Today's Progress**: I finished the controller functions for getting all posts/comments and finding one post/comment by ID.
+
+**Thoughts:** Progress still feels slow, but definite.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog)
+
