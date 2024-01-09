@@ -32,3 +32,11 @@
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog)
 
+### Day 5: January 9, 2024 
+
+**Today's Progress**: I finished the backend API for my blog.
+
+**Thoughts:** Woo hoo! I wrote my first API. Now I will write a BASIC front end to consume it.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog)
+
