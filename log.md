@@ -40,3 +40,11 @@
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog)
 
+### Day 6: January 10, 2024 
+
+**Today's Progress**: I started the public front end for the blog, using Vite and React. I wrote up the basic functionality for fetching the posts.
+
+**Thoughts:** It is hard to remember all of the intricacies of React after being away from it for a couple months while learning backend.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
