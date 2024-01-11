@@ -48,3 +48,10 @@
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
 
+### Day 7: January 11, 2024 
+
+**Today's Progress**: Working on public frontend for blog still. Added fetch for comments; updated component for showing posts with formatted date of publication; updated comments schema on backend so that it contains a ref to the post.
+
+**Thoughts:** Today felt like I did not get a lot accomplished.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
