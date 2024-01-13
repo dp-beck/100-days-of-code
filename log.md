@@ -55,3 +55,12 @@
 **Thoughts:** Today felt like I did not get a lot accomplished.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+
+### Day 8: January 12, 2024 
+
+**Today's Progress**: Working on public frontend for blog still. 
+
+**Thoughts:** I had a not-so-great day at my normal job; so, I'm proud of myself for still coding.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
