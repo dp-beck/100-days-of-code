@@ -64,3 +64,20 @@
 **Thoughts:** I had a not-so-great day at my normal job; so, I'm proud of myself for still coding.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+
+### Day 9: January 13, 2024 
+
+**Today's Progress**: Working on public frontend for blog still. 
+
+**Thoughts:** Posted this a day late, but I did code on this day
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+### Day 10: January 14, 2024 
+
+**Today's Progress**: Working on public frontend for blog still. Somewhat stuck on figuring out how to best send my comments form data to the backend using fetch 
+
+**Thoughts:** It doesn't feel good to be stuck. I ll tell ya that.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
