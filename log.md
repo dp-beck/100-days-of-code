@@ -81,3 +81,19 @@
 **Thoughts:** It doesn't feel good to be stuck. I ll tell ya that.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+### Day 11: January 15, 2024 
+
+**Today's Progress**: Working on public frontend for blog still. Figured out how to send comments to back end, but struggled with the React logic to display the new comments as they were sent.
+
+**Thoughts:** It doesn't feel good to be stuck. I ll tell ya that.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+### Day 12: January 16, 2024 
+
+**Today's Progress**: Finally figured out how to get the comments to display correctly. React is funky. My solution seems weird and kludgy and not sure why the original way I wrote it did not work. 
+
+**Thoughts:** React is difficult; it seems confusing in ways it should not be.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
