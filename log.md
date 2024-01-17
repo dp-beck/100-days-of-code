@@ -97,3 +97,11 @@
 **Thoughts:** React is difficult; it seems confusing in ways it should not be.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+### Day 13: January 17, 2024 
+
+**Today's Progress**: I finished some basic styling for the public front end for the blog project and I'm calling it at that. Tomorrow I will start to put together a basic administrator side. 
+
+**Thoughts:** It's been getting harder and harder to maintain my efforts, but I am still committed to completing the 100 days of code. I think it will be a significant benefit to my job search, which I have already started.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
