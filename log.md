@@ -105,3 +105,11 @@
 **Thoughts:** It's been getting harder and harder to maintain my efforts, but I am still committed to completing the 100 days of code. I think it will be a significant benefit to my job search, which I have already started.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-public)
+
+### Day 14: January 18, 2024 
+
+**Today's Progress**: I moved on to writing up the administrator client.
+
+**Thoughts:** NONE.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
