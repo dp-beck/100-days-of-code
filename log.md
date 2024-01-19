@@ -113,3 +113,11 @@
 **Thoughts:** NONE.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
+
+### Day 15: January 19, 2024 
+
+**Today's Progress**: I added the fetch functionality to the publish and unpublish buttons.
+
+**Thoughts:** React is hard. After working on Node.JS and Express for a while, React seems more complicated because the stuff I am doing on the backend is pretty straightforward and doesn't really need to veer from established practice on how to write the code.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
