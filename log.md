@@ -121,3 +121,11 @@
 **Thoughts:** React is hard. After working on Node.JS and Express for a while, React seems more complicated because the stuff I am doing on the backend is pretty straightforward and doesn't really need to veer from established practice on how to write the code.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
+
+### Day 16: January 21, 2024 
+
+**Today's Progress**: I finished the update publication status buttons to reflect current status.
+
+**Thoughts:** I missed a day because I was too darn tired after taking the kids to the Great Wolf Lodge, but I am back now.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
