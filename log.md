@@ -129,3 +129,11 @@
 **Thoughts:** I missed a day because I was too darn tired after taking the kids to the Great Wolf Lodge, but I am back now.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
+
+### Day 17: January 22, 2024 
+
+**Today's Progress**: I finished the rest of the functionality for the administrator front end for my blog. Since it is just a learning project. 
+
+**Thoughts:** I've decided to stop where I was. There may be a couple bugs and the styling is non-existent. But I wanted to move on to finish the Odin Project on schedule and get started on the several projects I really want to show off in my arsenal.
+
+**Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
