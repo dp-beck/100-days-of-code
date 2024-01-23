@@ -137,3 +137,11 @@
 **Thoughts:** I've decided to stop where I was. There may be a couple bugs and the styling is non-existent. But I wanted to move on to finish the Odin Project on schedule and get started on the several projects I really want to show off in my arsenal.
 
 **Link to work:** [Blog](https://github.com/dp-beck/blog-frontend-administrator)
+
+### Day 18: January 23, 2024 
+
+**Today's Progress**: Today, I learned about hash tables. Tomorrow, I will implement hash tables in javascript.
+
+**Thoughts:** No Thoughts
+
+**Link to work:** None
