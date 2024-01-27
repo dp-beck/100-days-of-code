@@ -145,3 +145,19 @@
 **Thoughts:** No Thoughts
 
 **Link to work:** None
+
+### Day 19: January 25, 2024 
+
+**Today's Progress**: I worked on hashtables.
+
+**Thoughts:** No Thoughts
+
+**Link to work:** None
+
+### Day 20: January 27, 2024 
+
+**Today's Progress**: I worked on hashtables.
+
+**Thoughts:** I've been way too busy. I'm logging today, and I will be back to logging every day.
+
+**Link to work:** None
