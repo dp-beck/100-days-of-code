@@ -161,3 +161,12 @@
 **Thoughts:** I've been way too busy. I'm logging today, and I will be back to logging every day.
 
 **Link to work:** None
+
+### Day 21: January 30, 2024 
+
+**Today's Progress**: I worked on hashtables. I finished my implementation of them.
+
+**Thoughts:** Busy, tired, hating January. Back on track after this.
+
+**Link to work:** None
+
