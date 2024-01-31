@@ -170,3 +170,11 @@
 
 **Link to work:** None
 
+### Day 22: January 31, 2024 
+
+**Today's Progress**: I decided to have some fun and learn how to make HTML5 games using Phaser JS.
+
+**Thoughts:** I'm looking forward to spending some time on this, but I want to make sure I continue to finish the Odin Project.
+
+**Link to work:** None
+
