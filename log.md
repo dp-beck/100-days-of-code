@@ -178,3 +178,12 @@
 
 **Link to work:** None
 
+### Day 23: February 2, 2024
+
+**Today's Progress**: I started a Codecademy course on Phase JS. I may work on it for fun, while keeping on my plan to finish the rest of The Odin Project.
+
+**Thoughts:** I'm looking forward to spending some time on this, but I want to make sure I continue to finish the Odin Project. Tomorrow, I'm going to work on the Odin Project.
+
+**Link to work:** None
+
+
