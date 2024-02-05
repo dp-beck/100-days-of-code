@@ -186,4 +186,10 @@
 
 **Link to work:** None
 
+### Day 24: February 5, 2024
 
+**Today's Progress**: I put the finishing touches on my Where's Waldo project.
+
+**Thoughts:** I've wavered a bit on my initial commitment to 100 Days of Code, and I missed a decent number of days. I'm recommitted to maintaining a streak after this day. I'm going to use the motivation to finish the Odin Project.
+
+**Link to work:** [Where's Waldo](https://dp-beck.github.io/wheres-waldo/)
