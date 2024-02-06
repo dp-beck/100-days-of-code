@@ -193,3 +193,11 @@
 **Thoughts:** I've wavered a bit on my initial commitment to 100 Days of Code, and I missed a decent number of days. I'm recommitted to maintaining a streak after this day. I'm going to use the motivation to finish the Odin Project.
 
 **Link to work:** [Where's Waldo](https://dp-beck.github.io/wheres-waldo/)
+
+### Day 25: February 6, 2024
+
+**Today's Progress**: I worked through a basic tutorial to learn how to use socket io.
+
+**Thoughts:** I'm going to use socket io to make a basic chat app.
+
+**Link to work:** None
