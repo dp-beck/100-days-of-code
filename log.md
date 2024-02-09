@@ -201,3 +201,11 @@
 **Thoughts:** I'm going to use socket io to make a basic chat app.
 
 **Link to work:** None
+
+### Day 26: February 9, 2024
+
+**Today's Progress**: I started the back end portion of my chat app. I worked primarily on getting an express api spun up and connecting it to a MongoDB. Tomorrow, I will finish some basic coding to integrate socket io into it
+
+**Thoughts:** No thoughts
+
+**Link to work:** None
