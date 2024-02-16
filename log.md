@@ -209,3 +209,11 @@
 **Thoughts:** No thoughts
 
 **Link to work:** None
+
+### Day 27: February 16, 2024
+
+**Today's Progress**: I wrote some dummy controllers and wrote out the routes for the backend for my chat app.
+
+**Thoughts:** No thoughts
+
+**Link to work:** None
